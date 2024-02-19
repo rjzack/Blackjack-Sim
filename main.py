@@ -1,7 +1,6 @@
 """
 Who: RJ Zack
-What: Final project- black jack simulator
-Where: CS125
+What: black jack simulator
 When: 5 December 2022
 """
 
